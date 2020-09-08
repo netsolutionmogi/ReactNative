@@ -10,10 +10,12 @@ import { StyleSheet, Text, View, Image, TouchableOpacity } from 'react-native';
 
 
 import Logo       from './src/assets/images/logotipo.png';
+<br>
 import imagemum   from './src/assets/images/imagemum.jpg';
-import imagemdois from './src/assets/images/imagemdois.jpg';
-import imagemtres from './src/assets/images/imagemtres.jpg';
-import imagemquatro from './src/assets/images/imagemquatro.jpg';
+<br>
+import imagemdois from './src/assets/images/imagemdois.jpg';<br>
+import imagemtres from './src/assets/images/imagemtres.jpg';<br>
+import imagemquatro from './src/assets/images/imagemquatro.jpg';<br>
 
 export default function App() {
 
@@ -62,34 +64,34 @@ export default function App() {
     );
 }
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#f5f5f5',
-    alignItems: 'center',
-    justifyContent: 'flex-start',
-    padding: 15,
-  },
-  header: {
-    marginTop: 20,
-  },
-  content: {
-    paddingTop: 10,
+const styles = StyleSheet.create({<br>
+  container: {<br>
+    flex: 1,<br>
+    backgroundColor: '#f5f5f5',<br>
+    alignItems: 'center',<br>
+    justifyContent: 'flex-start',<br>
+    padding: 15,<br>
+  },<br>
+  header: {<br>
+    marginTop: 20,<br>
+  },<br>
+  content: {<br>
+    paddingTop: 10,<br>
 
-  },
-  contentcontato: {
-    fontSize: 18,
-    color: '#000',
-    lineHeight: 30,
-    alignContent: 'center',
-    justifyContent: 'center',
-  },
+  },<br>
+  contentcontato: {<br>
+    fontSize: 18,<br>
+    color: '#000',<br>
+    lineHeight: 30,<br>
+    alignContent: 'center',<br>
+    justifyContent: 'center',<br>
+  },<br>
 
-  servicos: {
-    alignSelf: 'flex-start',
-    marginLeft: 30,
-    marginTop: 20,
-  },
+  servicos: {<br>
+    alignSelf: 'flex-start',<br>
+    marginLeft: 30,<br>
+    marginTop: 20,<br>
+  },<br>
 
   title: {
     fontSize: 18,
