@@ -4,10 +4,10 @@ Exemplo de Aplicativo React Native:
 <b>Estou liberado codigo fonte</b>
 <br>
 <br>
-import { StatusBar } from 'expo-status-bar';
-import React from 'react';
-import { StyleSheet, Text, View, Image, TouchableOpacity } from 'react-native';
-
+import { StatusBar } from 'expo-status-bar';<br>
+import React from 'react';<br>
+import { StyleSheet, Text, View, Image, TouchableOpacity } from 'react-native';<br>
+<br>
 
 import Logo       from './src/assets/images/logotipo.png';
 <br>
