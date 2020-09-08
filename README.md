@@ -17,6 +17,7 @@ import imagemdois from './src/assets/images/imagemdois.jpg';<br>
 import imagemtres from './src/assets/images/imagemtres.jpg';<br>
 import imagemquatro from './src/assets/images/imagemquatro.jpg';<br>
 
+<br><br>
 export default function App() {
 
     return (
@@ -93,60 +94,60 @@ const styles = StyleSheet.create({<br>
     marginTop: 20,<br>
   },<br>
 
-  title: {
-    fontSize: 18,
-    color: '#000',
-    lineHeight: 30,
-    alignContent: 'center',
-    justifyContent: 'center',
+  title: {<br>
+    fontSize: 18,<br>
+    color: '#000',<br>
+    lineHeight: 30,<br>
+    alignContent: 'center',<br>
+    justifyContent: 'center',<br>
 
-  },
-  websites: {
-    fontSize: 20,
-    color: '#000',
-    lineHeight: 20,
-    alignContent: 'center',
-    justifyContent: 'center',
+  },<br>
+  websites: {<br>
+    fontSize: 20,<br>
+    color: '#000',<br>
+    lineHeight: 20,<br>
+    alignContent: 'center',<br>
+    justifyContent: 'center',<br>
 
-  },
-  listview: {
-    marginTop: 15,
-    alignSelf: 'center',
-  },
-  list: {
-    justifyContent: 'space-between',
-    flexDirection: 'row',
-    paddingHorizontal: 20,
-    marginBottom: 15,
-    marginRight: 15,
-  },
-  thumbnail: {
-    width: 140,
-    height: 120,
-    resizeMode: 'cover',
-    borderRadius: 2,
-    marginLeft: 10,
-  },
+  },<br>
+  listview: {<br>
+    marginTop: 15,<br>
+    alignSelf: 'center',<br>
+  },<br>
+  list: {<br>
+    justifyContent: 'space-between',<br>
+    flexDirection: 'row',<br>
+    paddingHorizontal: 20,<br>
+    marginBottom: 15,<br>
+    marginRight: 15,<br>
+  },<br>
+  thumbnail: {<br>
+    width: 140,<br>
+    height: 120,<br>
+    resizeMode: 'cover',<br>
+    borderRadius: 2,<br>
+    marginLeft: 10,<br>
+  },<br>
 
-  imagem: {
-    width: '100%',
-    resizeMode: 'contain',
-  },
-  button: {
-    width: '85%',
-    height: 32,
-    backgroundColor: '#FF0000',
-    justifyContent: 'center',
-    alignItems: 'center',
-    borderRadius: 8,
-    marginTop: 15,
-    padding: 24,
-  },
-  buttontext: {
-    fontSize: 20,
-    color: '#fff',
-    lineHeight: 20,
-  },
-
-});
+  imagem: {<br>
+    width: '100%',<br>
+    resizeMode: 'contain',<br>
+  },<br>
+  button: {<br>
+    width: '85%',<br>
+    height: 32,<br>
+    backgroundColor: '#FF0000',<br>
+    justifyContent: 'center',<br>
+    alignItems: 'center',<br>
+    borderRadius: 8,<br>
+    marginTop: 15,<br>
+    padding: 24,<br>
+  },<br>
+  buttontext: {<br>
+    fontSize: 20,<br>
+    color: '#fff',<br>
+    lineHeight: 20,<br>
+  },<br>
+<br>
+});<br>
 
