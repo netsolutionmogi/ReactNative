@@ -1,4 +1,4 @@
-Exemplo de Aplicativo React Native:
+Exemplo de Aplicativo React Native usando Expo:
 <br>
 <br>
 <b>Estou liberado codigo fonte</b>
